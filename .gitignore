@@ -1,0 +1,17 @@
+bin/
+obj/
+TestResults/
+*.user
+*.suo
+*.db
+*.db-shm
+*.db-wal
+.vs/
+.idea/
+.DS_Store
+Thumbs.db
+
+# O banco de desenvolvimento, criado na primeira execucao.
+*.db
+*.db-shm
+*.db-wal
